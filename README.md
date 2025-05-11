@@ -22,7 +22,7 @@ A lightweight SwiftUI package that makes it easy to animate views with built-in 
 2. Go to `File > Add Packages...`
 3. Enter the URL to this repository:
    ```
-   https://github.com/your-username/AnimatedVisibility.git
+   https://github.com/andykale/animated-visibility-swiftui.git
    ```
 4. Choose the latest version and add the package
 
